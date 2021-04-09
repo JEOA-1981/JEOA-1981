@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JEOA-1981
+- 👋 Hi, I’m @JEOA-1981 (Jesús Eduardo Oliva Abarca)
 - 👀 I’m interested in digital art, digital culture, digital humanities and digital creative industries
 - 🌱 I’m currently learning cultural analytics and machine learning
 - 💞️ I’m looking to collaborate on projects of digital humanities
